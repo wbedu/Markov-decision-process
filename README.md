@@ -3,7 +3,7 @@ CS 411 Assignment 12 Writeup
 By: Wilfried Christophe Bedu (cbedu2)
 
 
-#Steps to reproduce:
+# Steps to reproduce:
 
     1. Install the following python Libraries
         copy
