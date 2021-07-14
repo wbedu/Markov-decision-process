@@ -1,6 +1,6 @@
-CS 411 Assignment 12 Writeup
+Markov decision process
 ===
-By: Will Bedu(wbedu)
+
 
 
 # Steps to reproduce:
@@ -13,5 +13,5 @@ By: Will Bedu(wbedu)
         create a JSON file called input.json
         a template can be found included in this zip
     3.
-        run cbedu2_mdp.py
+        run mdp.py
         
